@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "lab-02", "lab-02\lab-02.dtproj", "{6980AB9E-98DE-4A97-A340-5D458CFD68B0}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "lab-02", "lab-02\lab-02.dtproj", "{AB3D2091-7BED-4D06-9F72-CA71C57AE342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6980AB9E-98DE-4A97-A340-5D458CFD68B0}.Development|Default.ActiveCfg = Development
-		{6980AB9E-98DE-4A97-A340-5D458CFD68B0}.Development|Default.Build.0 = Development
+		{AB3D2091-7BED-4D06-9F72-CA71C57AE342}.Development|Default.ActiveCfg = Development
+		{AB3D2091-7BED-4D06-9F72-CA71C57AE342}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7BDE7190-E76C-4842-876B-6F186C5D257E}
+		SolutionGuid = {2F52ADC4-5C41-4999-A56D-130323AE7B98}
 	EndGlobalSection
 EndGlobal
