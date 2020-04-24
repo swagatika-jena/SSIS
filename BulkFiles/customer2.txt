@@ -1,6 +1,6 @@
 CustomerCode,CustomerName,CustomerAmount,SalesDate
 1009,babu,0,1/1/2010
-1012,swag,hundred,2/2/2011
+1012,swag,300,2/2/2011
 1013,haguri,400,1/1/2016
 1014,padua,500,3/3/2013
 1015,nungra,700,5/10/2014

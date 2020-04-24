@@ -1,6 +1,6 @@
 CustomerCode,CustomerName,CustomerAmount,SalesDate
 1001,Shiv,0,1/1/2010
-1002,Raju,hundred,2/2/2012
+1002,Raju,100,2/2/2012
 1003,Ajay,400,1/1/2013
 1004,Khadak,500,3/3/2014
 1005,Sham,700,5/10/2014
